@@ -2,8 +2,8 @@
 Chopstore is fetching fake store datas from FakeStore and showing this datas.
 
 In this project; 
-+Navigation screens was created with navigation stack.
-+FakeStore API was retrieved with axios package.
++Navigation screens was created with navigation stack. <br/>
++FakeStore API was retrieved with axios package. <br/>
 +API data was used with @env package.
 
 # ScreenShots
